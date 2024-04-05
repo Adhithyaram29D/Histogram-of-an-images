@@ -77,8 +77,8 @@ cv2.destroyAllWindows()
 ## Output:
 ### Input Grayscale Image and Color Image
 <img src ="https://github.com/Adhithyaram29D/Histogram-of-an-images/assets/119393540/9a646993-0942-4f77-9f1b-268b7fddbc5a" width="300">
-
-![image](https://github.com/Adhithyaram29D/Histogram-of-an-images/assets/119393540/3bde2cba-0755-452d-8b70-42fdfb7187ce)
+<br>
+<img src ="https://github.com/Adhithyaram29D/Histogram-of-an-images/assets/119393540/3bde2cba-0755-452d-8b70-42fdfb7187ce" width="500">
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
@@ -86,7 +86,7 @@ cv2.destroyAllWindows()
 <img src ="https://github.com/Adhithyaram29D/Histogram-of-an-images/assets/119393540/b87e0022-d811-48e9-875d-041754adf4db" width="400">
 <br>
 <img src ="https://github.com/Adhithyaram29D/Histogram-of-an-images/assets/119393540/fbc7e642-34e7-4106-bcd3-f248ded98e92" width="300">
-<img src= "https://github.com/Adhithyaram29D/Histogram-of-an-images/assets/119393540/1cd65408-e4fc-4ff9-ae5e-4e6ca0911b6c" width="300">
+<img src= "https://github.com/Adhithyaram29D/Histogram-of-an-images/assets/119393540/1cd65408-e4fc-4ff9-ae5e-4e6ca0911b6c" width="400">
 
 
 ### Histogram Equalization of Grayscale Image.
